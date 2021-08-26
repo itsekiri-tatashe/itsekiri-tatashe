@@ -4,10 +4,11 @@
 I'm a student who is passionate about Machine Learning and Data Science and is currently studying about this fascinating concepts. 
 
 - 🌱 I’m currently learning ...
-  - Classic MAchine Learning Algorithms
+  - Classic Machine Learning Algorithms
     - Supervised Learnig
 - 📫 How to reach me:
-  -   [Twitter](https://twitter.com/EyimofeP/)
+  -   [Twitter](https://twitter.com/thebrowndeity/)
+___
 Skills: 
 * Pandas 
 * Numpy
