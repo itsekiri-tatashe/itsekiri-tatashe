@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hi there 👋, My name is Eyimofe 
+![I am Eyimofe](https://github.com/EyimofeP/EyimofeP/raw/main/Eyimofe.png)
+
+I'm a student who is passionate about Machine Learning and Data Science and is currently studying about this fascinating concepts. 
+
+- 🌱 I’m currently learning ...
+  - Classic MAchine Learning Algorithms
+    - Supervised Learnig
+- 📫 How to reach me:
+  -   [Twitter](https://twitter.com/EyimofeP/)
+Skills: 
+* Pandas 
+* Numpy
+* Matplotlib /Seaborn / Plotly
+* Exploratory Data Analysis
+* Regression 
+    - Linear Regression
+* Classification 
+    - Logistic Regression
+
+
 
 <!--
 **EyimofeP/EyimofeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
