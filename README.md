@@ -7,17 +7,8 @@ I'm a student who is passionate about Machine Learning and Data Science and is c
   - Classic Machine Learning Algorithms
     - Supervised Learnig
 - 📫 How to reach me:
-  -   [Twitter](https://twitter.com/thebrowndeity/)
-___
-Skills: 
-* Pandas 
-* Numpy
-* Matplotlib /Seaborn / Plotly
-* Exploratory Data Analysis
-* Regression 
-    - Linear Regression
-* Classification 
-    - Logistic Regression
+  -   [Twitter](https://twitter.com/_theweirdnerd/)
+
 
 
 
