@@ -1,15 +1,11 @@
 ### Hi there 👋, My name is Eyimofe 
 
 I'm a student who is passionate about Machine Learning and Data Science and is currently studying about this fascinating concepts. 
-
-- 🌱 I’m currently learning ...
-  - Classic Machine Learning Algorithms
-    - Supervised Learnig
 - 📫 How to reach me:
   -   [Twitter](https://twitter.com/_theweirdnerd/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyimofep)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyimofep&layout=compact)
 
 <!--
 **EyimofeP/EyimofeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
