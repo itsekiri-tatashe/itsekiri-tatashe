@@ -1,5 +1,4 @@
 ### Hi there 👋, My name is Eyimofe 
-![I am Eyimofe](https://github.com/EyimofeP/EyimofeP/raw/main/Eyimofe.png)
 
 I'm a student who is passionate about Machine Learning and Data Science and is currently studying about this fascinating concepts. 
 
@@ -9,7 +8,7 @@ I'm a student who is passionate about Machine Learning and Data Science and is c
 - 📫 How to reach me:
   -   [Twitter](https://twitter.com/_theweirdnerd/)
 
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyimofep)
 
 
 <!--
