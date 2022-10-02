@@ -28,14 +28,12 @@ I'm a passionate data scientist interested about Machine Learning and Data Scien
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=darkgreen)
 ![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&color=00C7B7)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&color=blue)
-![](https://img.shields.io/badge/Code-Scikit-Learn-informational?style=flat&logo=Scikit-Learn&color=blue)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&color=blue)
 
-</br>
+___
 ![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-![](https://img.shields.io/badge/Tools-Visual-Studio-Code-informational?style=flat&logo=Visual-Studio-Code&color=F05032)
-
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyimofep)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyimofep&layout=compact)
