@@ -13,7 +13,7 @@ I'm a Data Scientist 📈, Machine Learning Engineer ⚒️👨🏽‍💻, and 
 </h2> 
 
 <p align="center">
-<a href="https://github.com/drkostas">
+<a href="https://github.com/eyimofep">
     <img src="https://github-stats-alpha.vercel.app/api?username=eyimofep&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
 </p>
