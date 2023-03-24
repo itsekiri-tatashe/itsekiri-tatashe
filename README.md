@@ -38,6 +38,20 @@ ___
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyimofep)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyimofep&layout=compact)
 
+<summary>📈 Stats</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyimofep&theme=dracula) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=eyimofep&theme=dracula) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eyimofep&theme=dracula)
+
+
+<br>
+Currently Coding & Listening to:
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsbzvtkjajgqyz47q7pd5rh6fq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tsbzvtkjajgqyz47q7pd5rh6fq)
 <!--
 **EyimofeP/EyimofeP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
