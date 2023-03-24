@@ -1,11 +1,22 @@
+<p align="center">
+<a href="https://github.com/eyimofep">
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+ Plex+Mono&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Eyimofe+Ayo+Pinnick;Machine+Learning+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer" alt="Typing SVG" />
+</a>
+</p>
+
 <h3 align="center">
 Hi there, I'm Eyimofe 👋
 </h3>
-
+  
 <h2 align="center">
 I'm a Data Scientist 📈, Machine Learning Engineer ⚒️👨🏽‍💻, and Backend Developer 💻!
 </h2> 
 
+<p align="center">
+<a href="https://github.com/drkostas">
+    <img src="https://github-stats-alpha.vercel.app/api?username=eyimofep&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+</a>
+</p>
 
 
 <div align="center" dir="auto">
@@ -26,21 +37,54 @@ I'm a passionate data scientist interested about Machine Learning and Data Scien
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&color=darkgreen)
-![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&color=00C7B7)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=Database&color=yellow)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&color=blue)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&color=blue)
-
+![](https://img.shields.io/badge/Code-TensorFlow-informational?style=flat-square&logo=tensorflow)
+<!-- ![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=FastAPI&color=00C7B7) -->
 ___
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
+![](https://img.shields.io/badge/Tools-Render-informational?style=flat&logo=Render&color=430098)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyimofep)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyimofep&layout=compact)
+
+### 🖥️ My Projects
+<table>
+<tr><th>Machine Learning </th><th>Misc Projects</th></tr>
+<tr><td>
+
+|Title | Technologies|
+|--|--|
+| [Lagos Public Transportation Classification](https://github.com/eyimofep/lagos-transportation-classification) |   ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)
+| [Lagos Rent Estimator](https://github.com/EyimofeP/lagos-rent-estimator) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)|
+| [Lagos House Price Estimator](https://github.com/EyimofeP/lagos-house-estimator) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)|
+| [Dementia Predictor](https://github.com/EyimofeP/ensemble-dementia-predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)|
+| [Nollywood Movies Recommendation System](https://github.com/EyimofeP/nolly-recommends) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Streamlit](https://img.shields.io/badge/Streamlit-black?style=flat-square&logo=streamlit) ![Render](https://img.shields.io/badge/Render-black?style=flat-square&logo=render)|
+| [Parkinsons Disease Predictor](https://github.com/EyimofeP/parkinsons-predictor) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)|
+| [Survey Lung Cancer Prediction](https://github.com/EyimofeP/survey-lung-cancer-prediction) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)|
+| [Clustering of Nigerian Cities](https://github.com/EyimofeP/nigerian-cities-clusters) | ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn) ![Plotly](https://img.shields.io/badge/Plotly-purple?style=flat-square&logo=plotly)|
+
+</td><td>
+
+|Title | Technologies|
+|--|--|
+| [Qatar & Arik Air Sentiment Analysis](https://github.com/EyimofeP/qatar-arik-sentiment) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-black?style=flat-square&logo=scikit-learn)|
+| [Nigerian Spotify Analysis](https://github.com/EyimofeP/nigerian-spotify-analysis) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)|
+| [English Football Analysis](https://github.com/EyimofeP/english-football-trophy) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Jupyter](https://img.shields.io/badge/Jupyter-black?style=flat-square&logo=jupyter) ![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas)|
+| [PDF-Drive Clone](https://github.com/EyimofeP/pdf-drive-clone) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django) ![Beautifulsoup](https://img.shields.io/badge/Beautifulsoup-black?style=flat-square&logo=bs4)|
+| [Mofe's Todo](https://github.com/EyimofeP/mytodo) |  [![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)](https://pypi.org/project/high-sql/) ![Django](https://img.shields.io/badge/Django-black?style=flat-square&logo=django)
+
+
+</td></tr> </table>
+
 
 <summary>📈 Stats</summary>
 <br>
-My Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=eyimofep)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eyimofep&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eyimofep&theme=dracula) 
 
