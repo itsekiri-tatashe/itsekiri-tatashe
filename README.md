@@ -30,6 +30,9 @@ I'm a Data Scientist 📈, Machine Learning Engineer ⚒️👨🏽‍💻, and 
 <a href="mailto:eyimofepinick@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="max-width: 100%;">
 </a>&nbsp;
+<a href="https://eyimofep.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/My_Website-darkgreen?style=for-the-badge&logo=About.me&logoColor=white" style="max-width: 100%;">
+</a>&nbsp;
 </div>
 I'm a passionate data scientist interested about Machine Learning and Data Science and is currently studying about this fascinating concepts. 
 
