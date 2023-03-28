@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/eyimofep">
-    <img src="https://readme-typing-svg.demolab.com?font=IBM+ Plex+Mono&size=18&duration=3000&pause=100&multiline=true&width=500&height=80&lines=Eyimofe+Ayo+Pinnick;Machine+Learning+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=IBM+ Plex+Mono&size=18&duration=2500&pause=100&multiline=true&width=800&height=80&lines=Eyimofe+Ayo+Pinnick;Machine+Learning+Engineer+%7C+Data+Scientist+%7C+Backend+Engineer" alt="Typing SVG" />
 </a>
 </p>
 
