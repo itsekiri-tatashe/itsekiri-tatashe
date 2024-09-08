@@ -100,10 +100,6 @@ ___
 
 
 <br>
-Currently Coding & Listening to:
-    
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31tsbzvtkjajgqyz47q7pd5rh6fq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/31tsbzvtkjajgqyz47q7pd5rh6fq)
-    
 <!--
 **itsekiri-tatashe/itsekiri-tatashe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
